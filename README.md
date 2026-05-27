@@ -12,7 +12,7 @@ EasyOCR + Roboflow を利用した名刺OCR自動分類システムです。
 
 ## 使用モデル
 
-Roboflow Universe:
+Roboflow Universe:  
 <https://universe.roboflow.com/first-9kwz3/business-card-sg7cv>
 
 ## 使用技術
@@ -28,7 +28,7 @@ Roboflow Universe:
 
 ```bash
 python business_card_ocr.py
-
+```
 
 ## 工夫点
 
