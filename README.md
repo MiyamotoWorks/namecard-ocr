@@ -4,6 +4,7 @@ EasyOCR と Roboflow を利用した名刺OCR自動分類システムです。
 名刺画像から文字情報を抽出し、氏名・電話番号・メールアドレス・URL・住所を自動分類してExcelへ出力します。
 
 
+
 ## 機能
 
 - 名刺画像からOCRを用いてテキスト抽出
@@ -13,10 +14,12 @@ EasyOCR と Roboflow を利用した名刺OCR自動分類システムです。
 - Excel出力
 
 
+
 ## 使用モデル
 
 Roboflow Universe:  
 <https://universe.roboflow.com/first-9kwz3/business-card-sg7cv>
+
 
 
 ## 使用技術
@@ -27,6 +30,9 @@ Roboflow Universe:
 - pandas
 - numpy
 - re
+
+
+
 
 ## 実行方法
 
