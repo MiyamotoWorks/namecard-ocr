@@ -226,7 +226,7 @@ for c in candidates:
 # ==========================================================
 # Excel出力
 # ==========================================================
-df = pd.DataFrame([card])
+df = pd.DataFrame(list(card.items()), columns=["項目", "値"])
 df.to_excel("business_card_result.xlsx", index=False)
 
 # ==========================================================
