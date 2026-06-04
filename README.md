@@ -33,12 +33,17 @@ Roboflow Universe:
 
 
 
-
 ## 実行方法
 
 ```bash
 python business_card_ocr.py
 ```
+
+
+
+
+
+
 
 ## 実行結果
 
