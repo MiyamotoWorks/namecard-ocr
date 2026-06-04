@@ -42,7 +42,7 @@ python business_card_ocr.py
 
 ### Excel出力結果
 
-![result](result.png?v=2)
+![Excel](result.png)
 
 ## 工夫点
 
