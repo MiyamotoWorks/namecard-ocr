@@ -37,7 +37,7 @@ python business_card_ocr.py
 
 ### 入力画像
 
-![入力画像](businesscard.jpg)
+![入力画像](business_card.jpg)
 
 ### Excel出力結果
 
