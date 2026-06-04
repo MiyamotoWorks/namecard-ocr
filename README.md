@@ -36,13 +36,13 @@ python business_card_ocr.py
 
 ## 実行結果
 
-### 入力画像
+### 入力データ（名刺）
 
-![入力画像](business_card.jpg)
+<img src="business_card.jpg" width="300">
 
 ### Excel出力結果
 
-![Excel出力結果](result.png)
+<img src="result.png" width="400">
 
 ## 工夫点
 
