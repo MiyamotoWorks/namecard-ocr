@@ -38,11 +38,11 @@ python business_card_ocr.py
 
 ### 入力データ（名刺）
 
-<img src="business_card.jpg" width="300">
+<img src="business_card.jpg" width="500">
 
 ### Excel出力結果
 
-<img src="result.png" width="400">
+![Excel出力](result.png)
 
 ## 工夫点
 
